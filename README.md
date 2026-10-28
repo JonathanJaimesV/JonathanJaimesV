@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./assets/night.gif" width="100%" alt="Jonathan Jaimes — Midnight Purple" />
+  <img src="./assets/Night.gif" width="100%" alt="Jonathan Jaimes — Midnight Purple" />
 </div>
 
 <br>
